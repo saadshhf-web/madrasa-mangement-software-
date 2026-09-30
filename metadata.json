@@ -1,0 +1,6 @@
+{
+  "name": "Madrasa Arabia Madina Tul Uloom",
+  "description": "پیشہ ورانہ مدرسہ مینجمنٹ سوفٹ ویئر - جامعہ / مدرسہ عربیہ مدینۃ العلوم",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
